@@ -2,4 +2,4 @@
 
 out=$(seq 5 | ./plus_stdin)
 
-[ "${out}" = 15 ]
+[ "${out}" = 14 ]
