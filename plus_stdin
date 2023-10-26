@@ -1,13 +1,5 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
-  import sys
-
-  ans = 0.0
-  for line in sys.stdin:
-      ans += float(line)
-
-  print(ans)
-=======
+# SPDX-FileCopyrightText: 2023 Ashinaka 
 import sys
 
 ans=0
@@ -18,4 +10,3 @@ for line in sys.stdin:
         ans += float(line)
 
 print(ans)
->>>>>>> dev
