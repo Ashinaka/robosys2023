@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Takaki Nakamura
+# SPDX-License-Identifier: BSD-3-Clause
+
+import sys
+
+count=0
+plus=0.0
+for line in sys.stdin:
+    plus += float(line)
+    count += 1
+
+ans = plus/count
+
+print(ans)
