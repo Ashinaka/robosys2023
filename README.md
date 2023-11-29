@@ -27,7 +27,19 @@
 # timesコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/times.yml/badge.svg)
 
-標準入力から読み込んだ数字をすべてかける。
+標準入力から読み込んだ数字をすべて１にかける。
+
+## 必要なソフトウェア
+* Python
+  * テスト済み: 3.7~3.10
+
+## テスト環境
+* Ubuntu
+
+# divideコマンド
+![test](https://github.com/ashinaka/robosys2023/actions/workflows/divide.yml/badge.svg)
+
+標準入力から読み込んだ数字をすべて1に割る。
 
 ## 必要なソフトウェア
 * Python
