@@ -12,7 +12,7 @@
 ## テスト環境
 * Ubuntu
 
-#minusコマンド
+# minusコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/minus.yml/badge.svg)
 
 標準入力から読み込んだ数字を引く。
@@ -21,7 +21,7 @@
 * Python
   * テスト済み: 3.7~3.10
 
-##テスト環境
+## テスト環境
 * Ubuntu
 
 # 
