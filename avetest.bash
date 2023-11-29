@@ -10,7 +10,7 @@ ng () {
 res=0
 
 out=$(seq 12 | ./average)
-[ "${out}" = 6 ] || ng ${LINENO}
+[ "${out}" = 6.5 ] || ng ${LINENO}
 
 out=$(echo お | ./plus)
 [ "$?" = 1 ]      || ng ${LINENO}
