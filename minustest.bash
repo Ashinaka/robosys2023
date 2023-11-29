@@ -1,2 +1,4 @@
 #!/bin/bash
- seq 10 | ./minus
+out=$(seq 10 | ./minus)
+
+[ "${out}" = -52 ]
