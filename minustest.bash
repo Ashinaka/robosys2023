@@ -13,11 +13,11 @@ res=0
 out=$(seq 10 | ./minus)
 [ "${out}" = -55 ] || ng ${LINENO}
 
-out=$(echo い | ./plus)
+out=$(echo い | ./minus)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
-out=$(echo | ./plus)
+out=$(echo | ./minus)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
