@@ -1,7 +1,7 @@
 # plusコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
+標準入力から読み込んだ数字をすべて足す。
 
 
 
@@ -15,7 +15,19 @@
 # minusコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/minus.yml/badge.svg)
 
-標準入力から読み込んだ数字を引く。
+標準入力から読み込んだ数字をすべて引く。
+
+## 必要なソフトウェア
+* Python
+  * テスト済み: 3.7~3.10
+
+## テスト環境
+* Ubuntu
+
+# timesコマンド
+![test](https://github.com/ashinaka/robosys2023/actions/workflows/times.yml/badge.svg)
+
+標準入力から読み込んだ数字をすべてかける。
 
 ## 必要なソフトウェア
 * Python
