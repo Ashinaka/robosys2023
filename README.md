@@ -48,6 +48,19 @@
 ## テスト環境
 * Ubuntu
 
+
+# averageコマンド
+![test](https://github.com/ashinaka/robosys2023/actions/workflows/ave.yml/badge.svg)
+
+標準入力から読み込んだ数字の平均を出す。
+
+## 必要なソフトウェア
+* Python
+  * テスト済み: 3.7~3.10
+
+## テスト環境
+* Ubuntu
+
 # 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです。
