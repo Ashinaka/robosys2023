@@ -1,5 +1,5 @@
 #!/bin/bash -xv
-# SPDX-FileCopyrightText: 2023 Ashinaka
+# SPDX-FileCopyrightText: 2023 Takaki Nakamura
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng () {
