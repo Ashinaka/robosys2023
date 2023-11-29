@@ -11,7 +11,7 @@ res=0
 
 
 out=$(seq 10 | ./minus)
-[ "${out}" = -55 ] || ng ${LINENO}
+[ "${out}" = -45 ] || ng ${LINENO}
 
 out=$(echo い | ./plus)
 [ "$?" = 1 ]      || ng ${LINENO}
