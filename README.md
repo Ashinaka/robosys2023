@@ -1,34 +1,37 @@
-# plusコマンド
+# robosys2023
+課題用に作ったプログラムを置いています。
+
+## plusコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字をすべて足す。
 
-# minusコマンド
+## minusコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/minus.yml/badge.svg)
 
 標準入力から読み込んだ数字をすべて引く。
 
-# timesコマンド
+## timesコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/times.yml/badge.svg)
 
 標準入力から読み込んだ数字をすべて１にかける。
 
-# divideコマンド
+## divideコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/divide.yml/badge.svg)
 
 標準入力から読み込んだ数字をすべて1に割る。
 
-# averageコマンド
+## averageコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/ave.yml/badge.svg)
 
 標準入力から読み込んだ数字の平均を出す。
 
 
-## 必要なソフトウェア
+### 必要なソフトウェア
 * Python
   * テスト済み: 3.7~3.10
 
-## テスト環境
+### テスト環境
 * Ubuntu20.04
 
 # 
