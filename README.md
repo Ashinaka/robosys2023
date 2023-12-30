@@ -1,13 +1,13 @@
 # robosys2023
 課題用に作ったプログラムを置いています。
 
-###使用方法
+### 使用方法 
 右上のCodeからZIPファイルをダウンロード、コマンドプロンプトで任意のファイルを開きコンパイルし実行する。
 
 ## plusコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字をすべて足す。
+標準入力から読み込んだ数字をすべて足す。\n
 実行例
 <img width="386" alt="スクリーンショット 2023-12-30 192933" src="https://github.com/Ashinaka/robosys2023/assets/147679127/790fe646-a561-4b11-a271-58fae04cc25e">
 
