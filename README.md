@@ -1,5 +1,7 @@
 # robosys2023
 課題用に作ったプログラムを置いています。
+###使用方法
+右上のCodeからZIPファイルをダウンロード、コマンドプロンプトで任意のファイルを開きコンパイルし実行する。
 
 ## plusコマンド
 ![test](https://github.com/ashinaka/robosys2023/actions/workflows/test.yml/badge.svg)
